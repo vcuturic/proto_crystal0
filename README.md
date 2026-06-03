@@ -1,6 +1,9 @@
 # proto_crystal0
 An 3D game prologue.
 
+## Short intro
+[Click me!](https://drive.google.com/file/d/1g7WW5pv7HaYTRYW9GfWBhm6QtcGZXwNT/view?usp=drive_link)
+
 ## Credits:
 
 Briefcase / suitcase (low poly, game ready)" (https://skfb.ly/oFJAt) by TampaJoey is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
